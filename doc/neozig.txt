@@ -1,0 +1,14 @@
+==============================================================================
+Table of Contents                                              *neozig.contents*
+
+Introduction ···················································· |neozig.intro|
+
+==============================================================================
+Introduction                                                      *neozig.intro*
+
+This plugin automatically configures the `zls` builtin LSP client and integrates 
+with other zig tools.
+
+==============================================================================
+                                                                        *neozig*
+

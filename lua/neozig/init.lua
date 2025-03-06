@@ -1,0 +1,2 @@
+
+print('neozig plugin loaded')
